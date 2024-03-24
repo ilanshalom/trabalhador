@@ -1,0 +1,256 @@
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csprojAssemblyReference.cache
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CoreCompileInputs.cache
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.pdb
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll.config
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.pdb
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe.config
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.rsp
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe.config
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.rsp
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.AppContext.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Collections.Immutable.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Console.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Compression.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.AccessControl.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Claims.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.ValueTuple.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe.config
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.rsp
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe.config
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Data.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Google.Protobuf.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Renci.SshNet.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\BouncyCastle.Crypto.dll
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Data.xml
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 11 - TE - 2019 - SMP - Web apps - CRUD\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.dll
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 11 - TE - 2019 - SMP - Web apps - CRUD\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll.config
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe.config
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.rsp
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe.config
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.rsp
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.AppContext.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Console.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Claims.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe.config
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.rsp
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CoreCompileInputs.cache
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CopyComplete
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.AssemblyReference.cache
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Data.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Google.Protobuf.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Zstandard.Net.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\BouncyCastle.Crypto.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Ubiety.Dns.Core.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Memory.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Buffers.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\K4os.Compression.LZ4.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\K4os.Hash.xxHash.dll
+C:\Users\mfpledon\Desktop\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Numerics.Vectors.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll.config
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.rsp
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.rsp
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.AppContext.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Collections.Immutable.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Console.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Compression.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Reflection.Metadata.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.AccessControl.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Claims.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.ValueTuple.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.rsp
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Data.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Memory.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Threading.Tasks.Extensions.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Numerics.Vectors.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Buffers.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CopyComplete
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.dll
+C:\D\Aulas      -     2023-2\TE\Aula 08 - TE - 2021 - Web apps BDs\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll.config
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.exe.config
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csc.rsp
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.exe.config
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\csi.rsp
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.AppContext.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Console.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Compression.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Claims.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.ValueTuple.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.exe.config
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\vbc.rsp
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Data.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.AssemblyReference.cache
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CoreCompileInputs.cache
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaBdMySQLPreparedStatement.csproj.CopyComplete
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\obj\Debug\WebEscolaMySQLPreparedStatement.pdb
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\MySql.Web.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Memory.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Numerics.Vectors.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mfple\OneDrive\Escritorio\TE - processamento de BDs\Web apps\WebEscolaBdMySQLPreparedStatement\WebEscolaMySQLPreparedStatement\bin\System.Buffers.dll

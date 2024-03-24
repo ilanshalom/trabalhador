@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEscolaBdMySQLPreparedStatement", "WebEscolaMySQLPreparedStatement\WebEscolaBdMySQLPreparedStatement.csproj", "{BB799BE9-9BCF-4EE6-BD55-BB96795A95FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB799BE9-9BCF-4EE6-BD55-BB96795A95FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB799BE9-9BCF-4EE6-BD55-BB96795A95FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB799BE9-9BCF-4EE6-BD55-BB96795A95FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB799BE9-9BCF-4EE6-BD55-BB96795A95FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED19108-8AD2-4CED-86AB-DD86838C0B80}
+	EndGlobalSection
+EndGlobal
